@@ -6,4 +6,4 @@ green
 yellow
 orange
 red
-VIBGYOR
+VIBGYOR-first letter of each color
