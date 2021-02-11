@@ -1,4 +1,4 @@
-the rainbow and the unicorn
+the rainbow and the unicorn and rabbit
 violet
 indigo
 blue
@@ -7,4 +7,4 @@ yellow
 orange
 red
 VIBGYOR-first letter of each color
-the rainbow and the unicorn
+the rainbow and the unicorn and rabbit
